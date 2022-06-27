@@ -1,6 +1,6 @@
 FROM ThesanduT/Access-new:beta 
 
-RUN git clone https://github.com/ThesanduT/Access-new /root/aquabot
+RUN git clone https://github.com/ThesanduT/Access-new /root/access-new
 WORKDIR /root/access-new/
 ENV TZ=Europe/Istanbul
 RUN yarn add supervisor -g
