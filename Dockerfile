@@ -1,4 +1,4 @@
-FROM ThesanduT/QueenCutie01:beta 
+FROM aquabotwa/sanuwa-official:beta  
 
 RUN git clone https://github.com/ThesanduT/QueenCutie01 /root/QueenCutie01
 WORKDIR /root/QueenCutie01/
