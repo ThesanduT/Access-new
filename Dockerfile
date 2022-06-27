@@ -1,4 +1,4 @@
-FROM aquabotwa/sanuwa-official:beta 
+FROM ThesanduT/Access-new:beta 
 
 RUN git clone https://github.com/ThesanduT/Access-new /root/aquabot
 WORKDIR /root/access-new/
