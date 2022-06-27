@@ -2,9 +2,9 @@
   "name": "Aquabot-MD",
   "version": "1.0.0",
   "description": "aquabot happy for whatsapp.",
-  "main": "/QueenCutie01/Cutie.js",
+  "main": "/QueenCutie01/main.js",
   "scripts": {
-    "start": "supervisor -s Cutie.js"
+    "start": "supervisor -s main.js"
   },
   "repository": {
     "type": "git",
