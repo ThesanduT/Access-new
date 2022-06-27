@@ -26,6 +26,8 @@
     "stream" : "^0.0.2" ,
     "simple-git": "^2.37.0",  
     "chalk": "^4.1.2",
+    "figlet": "^1.5.0",
+    "fs-extra": "^10.0.0",
     "cookie": "^0.4.1",  
     "got": "^11.8.2",
     "google-translate-tts": "^0.3.0",
